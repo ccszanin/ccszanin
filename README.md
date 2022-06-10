@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently studying at [Unifesp](https://www.unifesp.br)
 
-- 👩🏻‍💻 Front-end developer in training 
-
 - 📌 How to reach me: @carlacristine_ 
 
 - ⚡ Fun fact: I love my dogs 🐶 and I'm passionate about dancing.🩰
