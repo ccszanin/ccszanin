@@ -7,7 +7,7 @@
 - How to reach me: @carlacristine_ 📱
 - Fun fact: I love my dogs 🐶 and I'm passionate about dancing.🩰
 -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" high="28px">, I'm Carla Cristine</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="28px">, I'm Carla Cristine</h1>
 
 - 🔭 I’m currently studying at [Unifesp](https://www.unifesp.br)
 
