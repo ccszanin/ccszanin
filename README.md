@@ -17,7 +17,7 @@
 
 
 
-I have a degree in Science and Technology and am always looking to acquire new knowledge and develop my personal and professional skills. I found my passion in the design process, specifically in interface development and I'm currently specializing in UX/UI Designer. I take intensive online courses, and I always keep myself updated for my constant evolution as a professional. Right now I'm challenging myself and looking to learn more about HTML and CSS.
+    I have a degree in Science and Technology and am always looking to acquire new knowledge and develop my personal and professional skills. I found my passion in the design process, specifically in interface development and I'm currently specializing in UX/UI Designer. I take intensive online courses, and I always keep myself updated for my constant evolution as a professional. Right now I'm challenging myself and looking to learn more about HTML and CSS.
 
 <br><br>
 
