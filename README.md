@@ -1,13 +1,5 @@
-<!--
-### Hi I'm Carla 👋
 
-
-- I’m currently studying at Unifesp 🎓
-- I’m currently learning HTML, CSS, JAVASCRIPT 👩🏻‍💻 
-- How to reach me: @carlacristine_ 📱
-- Fun fact: I love my dogs 🐶 and I'm passionate about dancing.🩰
--->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="28px">, I'm Carla Cristine</h1>
+##  Hi I'm Carla Cristine  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="26px" alt="hi">
 
 - 🔭 Bachelor of Science and Technology at [Unifesp](https://www.unifesp.br)
 
