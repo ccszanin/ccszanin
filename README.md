@@ -40,5 +40,10 @@
 [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF3F82&color:FFF)](mailto:carlacszanin@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccszanin title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly)
+<br><br>
+<h3 align="left">GitHub Stats</h3>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ccszanin&count_private=true&title_height=25&hide=issues&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly"
+/>
+
 
