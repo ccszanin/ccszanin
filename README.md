@@ -36,7 +36,7 @@
 <h2 align="left">Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF3F82&color:FFF)](https://www.linkedin.com/in/carla-cristine-ab1a33215/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF3F82&color:FFF)](https://www.instagram.com/elicosmaker)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF3F82&color:FFF)](https://www.instagram.com/carlacristine_)
 [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF3F82&color:FFF)](mailto:carlacszanin@gmail.com)
 
 
