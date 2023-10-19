@@ -18,7 +18,7 @@
 
 <br><br>
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +33,7 @@
 
 
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF3F82&color:FFF)](https://www.linkedin.com/in/carla-cristine-ab1a33215/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF3F82&color:FFF)](https://www.instagram.com/elicosmaker)
@@ -41,7 +41,7 @@
 
 
 <br><br>
-<h3 align="left">GitHub Stats</h3>
+<h2 align="left">GitHub Stats</h2>
 <img
   src="https://github-readme-stats.vercel.app/api?username=ccszanin&count_private=true&title_height=25&hide=issues&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly"
 />
