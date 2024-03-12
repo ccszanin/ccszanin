@@ -41,9 +41,14 @@
 
 
 <br><br>
-<h2 align="left">GitHub Stats</h2>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ccszanin&count_private=true&title_height=25&hide=issues&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly"
-/>
+
+<div align="">
+  <a href="https://github.com/csszanin">
+  <img img width="400px" align ="center" src="https://github-readme-stats.vercel.app/api?username=ccszanin&count_private=true&title_height=25&hide=issues&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly"/>
+  <img img width="400px" height="200px" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccszanin&layout=compact&langs_count=7&bg_color=000&title_color=FF3F82&text_color=FFF&border_radius=3&border_color=FF3F82c&icon_color=FF3F82&theme=jolly"/>
+</div>
+
+
+
 
 
